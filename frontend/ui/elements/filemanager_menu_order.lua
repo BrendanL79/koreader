@@ -123,6 +123,7 @@ local order = {
         "exporter",
         "statistics",
         "cloud_storage",
+        "supersync",
         "move_to_archive",
         "wallabag",
         "news_downloader",
